@@ -1,0 +1,12 @@
+idf_component_register(
+    SRC_DIRS 
+        "."
+        "wifi_sta"
+        "udp"
+        "camera"
+    INCLUDE_DIRS 
+        "."
+        "wifi_sta"
+        "udp"
+        "camera"
+        )
